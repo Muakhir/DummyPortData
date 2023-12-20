@@ -1,0 +1,111 @@
+{
+    "jobTitle": [
+        {
+            "title": "a software developer",
+            "color": "rgb(57, 153, 0)"
+        }   
+    ],
+    "about": [
+        "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
+        "I am currently employed as a coding lecturer at Life Choices and also run my own business, JT Devs. As a part-time YouTuber, I teach people different programming languages."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2020,
+            "description": "",
+            "place": "",
+            "type": "certificate",
+            "certificate": ""
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "",
+            "place": "",
+            "type": "certificate",
+            "certificate": ""
+        }
+    ],
+    "skills": [
+        {
+            "title": "Web Development",
+            "experience": "."
+        },
+        {
+            "title": "Database",
+            "experience": "."
+        },
+        {
+            "title": "API",
+            "experience": "."
+        },
+        {
+            "title": "Programming",
+            "experience": "."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "",
+            "surname": "",
+            "quotes": "",
+            "profile": "."
+        },
+        {
+            "name": "",
+            "surname": "",
+            "quotes": "",
+            "profile": "."
+        },
+        {
+            "name": "",
+            "surname": "",
+            "quotes": "",
+            "profile": "."
+        },
+        {
+            "name": "",
+            "surname": "",
+            "quotes": "",
+            "profile": "."
+        }
+    ],
+    "projects":[
+        {
+            "name": "",
+            "description": "",
+            "image": ".",
+            "gitHub": ".",
+            "netlify": "."
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": ".",
+            "gitHub": ".",
+            "netlify": "."
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": ".",
+            "gitHub": ".",
+            "netlify": "."
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": ".",
+            "gitHub": ".",
+            "netlify": "."
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": ".",
+            "gitHub": ".",
+            "netlify": "."
+        }
+    ]
+}
